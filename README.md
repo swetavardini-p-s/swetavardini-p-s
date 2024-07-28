@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swetavardini-p-s
-- 👀 I’m interested in c,c++,javascript,html,css,java,python,excel,microsoft,php...
+- 👀 I’m interested in c,c++,javascript,html,css,java,python,excel...
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on my personal project
 - 📫 How to reach me through swetavrdinips@gmail.com
